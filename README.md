@@ -27,13 +27,15 @@ I'm a full-stack developer with 1.5+ years of hands-on experience in building mo
 - Developed a responsive company platform using React/Next.js and Node.js
 - Boosted load speed by 40% using performance and CDN strategies
 - Integrated backend services and an AI chatbot with MongoDB
-- 🚀 **Live:** [eclatengineering.vercel.app](https://eclatengineering.vercel.app)
+- 🚀 **Live:** [eclatengineering.com](https://eclatengineering.com/)
 
 #### 🏗️ Sommet Infra Projects Pvt. Ltd *(Nov 2024 – Present)*
 - Designed and deployed a clean contact interface with backend messaging using EmailJS
+- 🚀 **Live:** [https://sommet-infra.vercel.app/](https://sommet-infra.vercel.app/)
 
 #### 🧪 So Efforts Solution *(Nov 2023 – Jun 2024)*
-- Built modular REST APIs, Firebase integration, and dynamic dashboards with React and Express
+- Built modular REST APIs, Firebase integration, and dynamic dashboards with Nextjs
+- 🚀 **Live:** [https://www.soefforts.com/](https://www.soefforts.com/)
 
 #### 🕹️ AI Hand Gesture Game *(Feb 2025 – Mar 2025)*
 - Created a browser-based AI game using TensorFlow.js and MediaPipe for gesture recognition  
@@ -68,20 +70,4 @@ I'm a full-stack developer with 1.5+ years of hands-on experience in building mo
 
 Clean Code • Backend System Design • AI in Browsers • Chess • Remote Tech Culture
 
----
-## Hi there 👋
 
-<!--
-**vikaskushwah738/vikaskushwah738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
