@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey, I'm Vikas Kushwah<br><br>🚀 Full Stack Software Engineer | ⚡ Passionate about building fast, scalable, and smart web apps<br>🌍 Based in India | 💻 Open to remote opportunities<br><br>🧠 About Me<br>I'm a full-stack developer with 1.5+ years of hands-on experience in building modern web applications using React.js, Next.js, TypeScript, Node.js, and MongoDB. I thrive in fast-paced environments and love contributing to high-impact product teams. Recently, I’ve been exploring Golang, backend concurrency patterns, and building AI-enabled browser games.
+#  Hey, 👋 I'm Vikas Kushwah
+<br><br>🚀 Full Stack Software Engineer | ⚡ Passionate about building fast, scalable, and smart web apps<br>🌍 Based in India | 💻 Open to remote opportunities<br><br>🧠 About Me<br>I'm a full-stack developer with 1.5+ years of hands-on experience in building modern web applications using React.js, Next.js, TypeScript, Node.js, and MongoDB. I thrive in fast-paced environments and love contributing to high-impact product teams. Recently, I’ve been exploring Golang, backend concurrency patterns, and building AI-enabled browser games.
 
 
 ## 🌐 Socials:
