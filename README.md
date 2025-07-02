@@ -1,73 +1,18 @@
-# 👋 Hey, I'm Vikas Kushwah
+# 💫 About Me:
+👋 Hey, I'm Vikas Kushwah<br><br>🚀 Full Stack Software Engineer | ⚡ Passionate about building fast, scalable, and smart web apps<br>🌍 Based in India | 💻 Open to remote opportunities<br><br>🧠 About Me<br>I'm a full-stack developer with 1.5+ years of hands-on experience in building modern web applications using React.js, Next.js, TypeScript, Node.js, and MongoDB. I thrive in fast-paced environments and love contributing to high-impact product teams. Recently, I’ve been exploring Golang, backend concurrency patterns, and building AI-enabled browser games.
 
-🚀 Full Stack Software Engineer | ⚡ Passionate about building fast, scalable, and smart web apps  
-🌍 Based in India | 💻 Open to remote opportunities  
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me/1389865394512203867) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/-vikas-kushwah/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kushwah_vikas_e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikaskushwah738@gmail.com) 
 
-### 🧠 About Me
-
-I'm a full-stack developer with 1.5+ years of hands-on experience in building modern web applications using **React.js**, **Next.js**, **TypeScript**, **Node.js**, and **MongoDB**. I thrive in fast-paced environments and love contributing to high-impact product teams. Recently, I’ve been exploring **Golang**, backend concurrency patterns, and building AI-enabled browser games.
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages**: JavaScript, TypeScript, Python,
-- **Frontend**: React.js, Next.js, HTML, CSS, Tailwind CSS
-- **Backend**: Node.js, Express.js, REST APIs
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Git, Docker, Vercel, AWS, Prisma, Postman, Firebase, CI/CD
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vikaskushwah738&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vikaskushwah738&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikaskushwah738&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vikaskushwah738&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📂 Featured Projects
-
-#### 🔧 Eclat Engineering Consultants *(July 2024 – Present)*
-- Developed a responsive company platform using React/Next.js and Node.js
-- Boosted load speed by 40% using performance and CDN strategies
-- Integrated backend services and an AI chatbot
-- 🚀 **Live:** [eclatengineering.com](https://eclatengineering.com/)
-
-#### 🏗️ Sommet Infra Projects Pvt. Ltd *(Nov 2024 – Present)*
-- Designed and deployed a clean contact interface with backend messaging using EmailJS
-- 🚀 **Live:** [https://sommet-infra.vercel.app/](https://sommet-infra.vercel.app/)
-
-#### 🧪 So Efforts Solution *(Nov 2023 – Jun 2024)*
-- Built modular REST APIs, Firebase integration, and dynamic dashboards with Nextjs
-- 🚀 **Live:** [https://www.soefforts.com/](https://www.soefforts.com/)
-
-#### 🕹️ AI Hand Gesture Game *(Feb 2025 – Mar 2025)*
-- Created a browser-based AI game using TensorFlow.js and MediaPipe for gesture recognition  
-- Swipe/tap interactions and cross-browser support
-
----
-
-### 🌐 Online Presence
-
-- 🔗 [Portfolio Website](https://vikas-me.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/-vikas-kushwah)
-- 🧑‍💻 [GitHub](https://github.com/vikaskushwah738)
-
----
-
-### 📊 GitHub Stats
-
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikaskushwah738&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikaskushwah738&layout=compact&theme=radical)
-
----
-
-### 🏆 Achievements
-
-- ✅ 250+ DSA problems solved on LeetCode  
-- ✅ FreeCodeCamp Certified: Responsive Web Design  
-- ✅ Learned Golang concurrency via Udemy & Grokking System Design
-
----
-
-### 🧠 Interests
-
-Clean Code • Backend System Design • AI in Browsers • Chess • Remote Tech Culture
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
