@@ -13,7 +13,7 @@ I'm a full-stack developer with 1.5+ years of hands-on experience in building mo
 
 ### 🛠️ Tech Stack
 
-- **Languages**: JavaScript, TypeScript, Python, Golang (basics)
+- **Languages**: JavaScript, TypeScript, Python,
 - **Frontend**: React.js, Next.js, HTML, CSS, Tailwind CSS
 - **Backend**: Node.js, Express.js, REST APIs
 - **Databases**: MongoDB, PostgreSQL, MySQL
@@ -26,7 +26,7 @@ I'm a full-stack developer with 1.5+ years of hands-on experience in building mo
 #### 🔧 Eclat Engineering Consultants *(July 2024 – Present)*
 - Developed a responsive company platform using React/Next.js and Node.js
 - Boosted load speed by 40% using performance and CDN strategies
-- Integrated backend services and an AI chatbot with MongoDB
+- Integrated backend services and an AI chatbot
 - 🚀 **Live:** [eclatengineering.com](https://eclatengineering.com/)
 
 #### 🏗️ Sommet Infra Projects Pvt. Ltd *(Nov 2024 – Present)*
